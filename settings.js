@@ -5,14 +5,14 @@ const chalk = require('chalk')
 
 //contact details
 global.ownernomer = "916909137213"
-global.ownername = "David Cyril"
+global.ownername = "obito exe"
 global.ytname = "David Cyril"
 global.socialm = "GitHub: DeeCeeXxx"
 global.location = "Africa, Nigeria, Lagos"
 
 global.ownernumber = '2347043759577,2349066528353,254782572110'  //creator number
 global.ownername = 'David Cyril' //owner name
-global.botname = '🕷Venom-2🕷' //name of the bot
+global.botname = '🕷THIS DEADLY BOT WAS DEPLOYED BY KOSI🕷' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
